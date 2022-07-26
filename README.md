@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### To see the final result, click here: [https://MihaelaIancu.github.io/infinite-scrolling](https://MihaelaIancu.github.io/infinite-scrolling)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Commands used to publish react files in github:
+
+1. `git remote set-url origin`  [https://github.com/MihaelaIancu/infinite-scrolling](https://github.com/MihaelaIancu/infinite-scrolling)
+
+2. `npm run build` 
+
+3. `npm run deploy` 
+
