@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-// import useRedditSearch from "./components/useRedditSearch";
 import RedditListContainer from "./components/RedditListContainer";
 
 class App extends React.Component {
