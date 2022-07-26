@@ -52,3 +52,24 @@ a:hover {
   color: #cc704b;
   font-weight: 500;
 }
+
+@media screen and (max-width: 767px) {
+  .reddit-item {
+    width: 90%;
+  }
+
+  .reddit-item h2 {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 12px;
+    font-weight: 500;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .reddit-item {
+    width: 50%;
+  }
+}
